@@ -22,17 +22,7 @@ This project provides an in-depth analysis of Tata Consultancy Services (TCS) st
   3. TCS_stock_info.csv
       Company-related metrics including Market Cap, PE Ratio, etc.
 
-⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/yourusername/tcs-stock-analysis.git
-cd tcs-stock-analysis
-(Optional) Create and activate a virtual environment:
-                     python -m venv venv
-                     # On Windows:
-                           venv\Scripts\activate
-                     # On macOS/Linux:
-                           source venv/bin/activate
-                           
+⚙️ Installation & Setup                           
 Install dependencies:
     pip install -r requirements.txt
 
